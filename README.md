@@ -148,18 +148,24 @@ We hope this repository can help researchers and practitioners to get a better u
 - Training language models to follow instructions with human feedback [[Paper]](https://openreview.net/forum?id=TG8KACxEON)
 - Judging LLM-as-a-judge with MT-Bench and Chatbot Arena [[Paper]](https://arxiv.org/abs/2306.05685)
 #### LLMs-based Evaluation
-##### Reference-free Evaluation
+##### LLMs for Evaluation
 - G-Eval: NLG Evaluation using GPT-4 with Better Human Alignment [[Paper]](https://arxiv.org/abs/2303.16634)
 - GPTScore: Evaluate as You Desire [[Paper]](https://arxiv.org/abs/2302.04166)
 - Exploring the Use of Large Language Models for Reference-Free Text Quality Evaluation: A Preliminary Empirical Study [[Paper]](https://arxiv.org/abs/2304.00723)
 - Can Large Language Models Be an Alternative to Human Evaluations? [[Paper]](https://arxiv.org/abs/2305.01937)
 - FActScore: Fine-grained Atomic Evaluation of Factual Precision in Long Form Text Generation [[Paper]](https://arxiv.org/abs/2305.14251)
 - AlignScore: Evaluating Factual Consistency with A Unified Alignment Function [[Paper]](https://aclanthology.org/2023.acl-long.634/)
+##### Task-specific LLM-based Evaluation
+- Error Analysis Prompting Enables Human-Like Translation Evaluation in Large Language Models: A Case Study on ChatGPT [[Paper]](https://arxiv.org/abs/2303.13809)
+- Human-like Summarization Evaluation with ChatGPT [[Paper]](https://arxiv.org/abs/2304.02554)
+- Large Language Models Are State-of-the-Art Evaluators of Code Generation [[Paper]](https://arxiv.org/abs/2304.14317)
+- Benchmarking Foundation Models with Language-Model-as-an-Examiner [[Paper]](https://arxiv.org/abs/2306.04181)
+- LLM-Eval: Unified Multi-Dimensional Automatic Evaluation for Open-Domain Conversations with Large Language Models [[Paper]](https://aclanthology.org/2023.nlp4convai-1.5/)
 ##### LLMs bias in Evaluation
 - Large Language Models are not Fair Evaluators [[Paper]](https://arxiv.org/abs/2305.17926)
 - Style Over Substance: Evaluation Biases for Large Language Models [[Paper]](https://arxiv.org/abs/2307.03025)
 - Judging LLM-as-a-judge with MT-Bench and Chatbot Arena [[Paper]](https://arxiv.org/abs/2306.05685)
-##### LLMs for Evaluation
+##### Evaluation-specific LLMs
 - PandaLM: An Automatic Evaluation Benchmark for LLM Instruction Tuning Optimization [[Paper]](https://arxiv.org/abs/2306.05087)
-- Error Analysis Prompting Enables Human-Like Translation Evaluation in Large Language Models: A Case Study on ChatGPT [[Paper]](https://arxiv.org/abs/2303.13809)
+
 
