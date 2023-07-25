@@ -14,6 +14,7 @@ We hope this repository can help researchers and practitioners to get a better u
 
 ## Table of Contents
 - [Awesome-Aligning-LLM-Human](#awesome-align-llm-human)
+    - [Related Surveys](#related-surveys)
     - [Alignment Data](#alignment-data)
         - [Instructions From Human](#instructions-from-human)
         - [Instructions From Strong LLMs](#instructions-from-strong-llms)
@@ -26,6 +27,11 @@ We hope this repository can help researchers and practitioners to get a better u
         - [Evaluation Benchmarks](#evaluation-benchmarks)
         - [Evaluation Paradigms](#evaluation-paradigms)
 
+## Related Surveys
+- A Survey of Large Language Models [[Paper]](https://arxiv.org/abs/2303.18223)
+- A Survey on Multimodal Large Language Models [[Paper]](https://arxiv.org/abs/2306.13549)
+- A Survey on Evaluation of Large Language Models [[Paper]](https://arxiv.org/abs/2307.03109)
+- Challenges and Applications of Large Language Models [[Paper]](https://arxiv.org/abs/2307.10169)
 
 ## Alignment Data
 ### Instructions From Human
