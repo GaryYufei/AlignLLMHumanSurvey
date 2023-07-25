@@ -4,11 +4,11 @@ A collection of papers and resources about aligning large language models (LLMs)
 
 We hope this repository can help researchers and practitioners to get a better understanding of this emerging field. If this repository is helpful for you, plase help us by citing this paper:
 ```bash
-@article{llm_kg,
-title={Aligning Large Language Models with Human: A Survey},
-author={Yufei Wang and Wanjun Zhong and Liangyou Li and Fei Mi and Xingshan Zeng and Wenyong Huang and Lifeng Shang and Xin Jiang and Qun Liu},
-journal={arXiv preprint arXiv:2307.12966},
-year={2023}
+@article{aligning_llm_human,
+    title={Aligning Large Language Models with Human: A Survey},
+    author={Yufei Wang and Wanjun Zhong and Liangyou Li and Fei Mi and Xingshan Zeng and Wenyong Huang and Lifeng Shang and Xin Jiang and Qun Liu},
+    journal={arXiv preprint arXiv:2307.12966},
+    year={2023}
 }
 ```
 
