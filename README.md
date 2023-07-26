@@ -15,7 +15,7 @@ We hope this repository can help researchers and practitioners to get a better u
 ```
 ## News
 🔭 This project is under development. You can hit the **STAR** and **WATCH** to follow the updates.
-2023/07/25: Our initial survey paper [Aligning Large Language Models with Human: A Survey](arxiv.org/abs/2307.12966) becomes available.
+- 2023/07/25: Our initial survey paper [Aligning Large Language Models with Human: A Survey](arxiv.org/abs/2307.12966) becomes available.
 
 ## Table of Contents
 - [News](#news)
