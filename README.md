@@ -32,6 +32,7 @@ We hope this repository can help researchers and practitioners to get a better u
 - A Survey on Multimodal Large Language Models [[Paper]](https://arxiv.org/abs/2306.13549)
 - A Survey on Evaluation of Large Language Models [[Paper]](https://arxiv.org/abs/2307.03109)
 - Challenges and Applications of Large Language Models [[Paper]](https://arxiv.org/abs/2307.10169)
+- Harnessing the Power of LLMs in Practice: A Survey on ChatGPT and Beyond [[Paper]](https://arxiv.org/abs/2304.13712)
 
 ## Alignment Data
 ### Instructions From Human
