@@ -2,6 +2,8 @@
 
 A collection of papers and resources about aligning large language models (LLMs) with human.
 
+Large Language Models (LLMs) trained on extensive textual corpora have emerged as leading solutions for a broad array of Natural Language Processing (NLP) tasks. Despite their notable performance, these models are prone to certain limitations such as misunderstanding human instructions, generating potentially biased content, or factually incorrect (hallucinated) information. Hence, aligning LLMs with human expectations has become an active area of interest within the research community. This survey presents a comprehensive overview of these alignment technologies, including the following aspects. (1) Data collection (2) Training methodologies (3) Model Evaluation. In conclusion, we collate and distill our findings, shedding light on several promising future research avenues in the field. This survey, therefore, serves as a valuable resource for anyone invested in understanding and advancing the alignment of LLMs to better suit human-oriented tasks and expectations.
+
 We hope this repository can help researchers and practitioners to get a better understanding of this emerging field. If this repository is helpful for you, plase help us by citing this paper:
 ```bash
 @article{aligning_llm_human,
@@ -11,8 +13,12 @@ We hope this repository can help researchers and practitioners to get a better u
     year={2023}
 }
 ```
+## News
+🔭 This project is under development. You can hit the **STAR** and **WATCH** to follow the updates.
+2023/07/25: Our initial survey paper [Aligning Large Language Models with Human: A Survey](arxiv.org/abs/2307.12966) becomes available.
 
 ## Table of Contents
+- [News](#news)
 - [Awesome-Aligning-LLM-Human](#awesome-align-llm-human)
     - [Related Surveys](#related-surveys)
     - [Alignment Data](#alignment-data)
