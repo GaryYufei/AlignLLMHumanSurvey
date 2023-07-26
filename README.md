@@ -156,7 +156,6 @@ We hope this repository can help researchers and practitioners to get a better u
 - Can Large Language Models Be an Alternative to Human Evaluations? [[Paper]](https://arxiv.org/abs/2305.01937)
 - FActScore: Fine-grained Atomic Evaluation of Factual Precision in Long Form Text Generation [[Paper]](https://arxiv.org/abs/2305.14251)
 - AlignScore: Evaluating Factual Consistency with A Unified Alignment Function [[Paper]](https://aclanthology.org/2023.acl-long.634/)
-##### Task-specific LLM-based Evaluation
 - Error Analysis Prompting Enables Human-Like Translation Evaluation in Large Language Models: A Case Study on ChatGPT [[Paper]](https://arxiv.org/abs/2303.13809)
 - Human-like Summarization Evaluation with ChatGPT [[Paper]](https://arxiv.org/abs/2304.02554)
 - Large Language Models Are State-of-the-Art Evaluators of Code Generation [[Paper]](https://arxiv.org/abs/2304.14317)
