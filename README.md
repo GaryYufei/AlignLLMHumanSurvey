@@ -71,7 +71,6 @@ We hope this repository can help researchers and practitioners to get a better u
 - Large Language Model as Attributed Training Data Generator: A Tale of Diversity and Bias [[Paper]](https://arxiv.org/abs/2306.15895)
 - WizardLM: Empowering Large Language Models to Follow Complex Instructions [[Paper]](https://arxiv.org/abs/2304.12244)
 - Unnatural Instructions: Tuning Language Models with (Almost) No Human Labor [[paper]](https://aclanthology.org/2023.acl-long.806/)
-- WizardCoder: Empowering Code Large Language Models with Evol-Instruct [[Paper]](https://arxiv.org/abs/2306.08568)
 
 ##### Improving Output Quality
 - Chain-of-Thought Prompting Elicits Reasoning in Large Language Models [[Paper]](https://openreview.net/forum?id=_VjQlMeSB_J)
