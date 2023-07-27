@@ -39,6 +39,7 @@ We hope this repository can help researchers and practitioners to get a better u
 - A Survey on Evaluation of Large Language Models [[Paper]](https://arxiv.org/abs/2307.03109)
 - Challenges and Applications of Large Language Models [[Paper]](https://arxiv.org/abs/2307.10169)
 - Harnessing the Power of LLMs in Practice: A Survey on ChatGPT and Beyond [[Paper]](https://arxiv.org/abs/2304.13712)
+- Domain Specialization as the Key to Make Large Language Models Disruptive: A Comprehensive Survey [[Paper]](https://arxiv.org/abs/2305.18703)
 
 ## Alignment Data
 ### Instructions From Human
@@ -48,23 +49,26 @@ We hope this repository can help researchers and practitioners to get a better u
 - The FLAN collection: Designing data and methods for effective instruction tuning [[paper]](https://arxiv.org/abs/2301.13688)
 - Unnatural Instructions: Tuning Language Models with (Almost) No Human Labor [[paper]](https://aclanthology.org/2023.acl-long.806/)
 - The OIG Dataset [[Blog]](https://laion.ai/blog/oig-dataset/)
+- ChatPLUG: Open-Domain Generative Dialogue System with Internet-Augmented Instruction Tuning for Digital Human [[Paper]](https://arxiv.org/abs/2304.07849)
+  
 #### Hand-crafted Instructions 
 - Free Dolly: Introducing the World's First Truly Open Instruction-Tuned LLM [[Blog]](https://www.databricks.com/blog/2023/04/12/dolly-first-open-commercially-viable-instruction-tuned-llm)
 - OpenAssistant Conversations -- Democratizing Large Language Model Alignment [[Paper]](https://arxiv.org/abs/2304.07327)
 - Chinese open instruction generalist: A preliminary release [[Paper]](https://arxiv.org/abs/2304.07987)
 - ShareGPT [[Blog]](https://lmsys.org/blog/2023-03-30-vicuna/)
+- Let's Verify Step by Step [[Paper]](https://arxiv.org/abs/2305.20050)
 
 ### Instructions From Strong LLMs
-#### Self-Instruct
+#### General Instructions
 ##### Improving Input Quality
 - Self-Instruct: Aligning Language Models with Self-Generated Instructions [[Paper]](https://aclanthology.org/2023.acl-long.754/)
 - LaMini-LM: A Diverse Herd of Distilled Models from Large-Scale Instructions [[Paper]](https://arxiv.org/abs/2304.14402)
 - Baize: An Open-Source Chat Model with Parameter-Efficient Tuning on Self-Chat Data [[Paper]](https://arxiv.org/abs/2304.01196)
 - Large Language Model as Attributed Training Data Generator: A Tale of Diversity and Bias [[Paper]](https://arxiv.org/abs/2306.15895)
 - WizardLM: Empowering Large Language Models to Follow Complex Instructions [[Paper]](https://arxiv.org/abs/2304.12244)
-- WizardCoder: Empowering Code Large Language Models with Evol-Instruct [[Paper]](https://arxiv.org/abs/2306.08568)
 - Unnatural Instructions: Tuning Language Models with (Almost) No Human Labor [[paper]](https://aclanthology.org/2023.acl-long.806/)
-- Textbooks Are All You Need [[Paper]](https://arxiv.org/abs/2306.11644)
+- WizardCoder: Empowering Code Large Language Models with Evol-Instruct [[Paper]](https://arxiv.org/abs/2306.08568)
+
 ##### Improving Output Quality
 - Chain-of-Thought Prompting Elicits Reasoning in Large Language Models [[Paper]](https://openreview.net/forum?id=_VjQlMeSB_J)
 - Orca: Progressive Learning from Complex Explanation Traces of GPT-4 [[Paper]](https://arxiv.org/abs/2306.02707)
@@ -72,15 +76,32 @@ We hope this repository can help researchers and practitioners to get a better u
 - Principle-Driven Self-Alignment of Language Models from Scratch with Minimal Human Supervision [[Paper]](https://arxiv.org/abs/2305.03047)
 - ExpertPrompting: Instructing Large Language Models to be Distinguished Experts [[Paper]](https://arxiv.org/abs/2305.14688)
 - Phoenix: Democratizing ChatGPT across Languages [[Paper]](https://arxiv.org/abs/2304.10453)
-#### Multi-Turn Instructions 
+
+#### Reasoning Instructions
+##### General Reasoning
+- Specializing Smaller Language Models towards Multi-Step Reasoning [[Paper]](https://openreview.net/forum?id=MXuLl38AEm)
+- Distilling Step-by-Step! Outperforming Larger Language Models with Less Training Data and Smaller Model Sizes [[Paper]](https://aclanthology.org/2023.findings-acl.507/)
+- Knowledge-Augmented Reasoning Distillation for Small Language Models in Knowledge-Intensive Tasks [[Paper]](https://arxiv.org/abs/2305.18395)
+- PaD: Program-aided Distillation Specializes Large Models in Reasoning [[Paper]](https://arxiv.org/abs/2305.13888)
+##### Code
+- Textbooks Are All You Need [[Paper]](https://arxiv.org/abs/2306.11644)
+- WizardCoder: Empowering Code Large Language Models with Evol-Instruct [[Paper]](https://arxiv.org/abs/2306.08568)
+- Code Alpaca: An Instruction-following LLaMA model for code generation [[Github]](https://github.com/sahil280114/codealpaca)
+##### Maths
+- MinT: Boosting Generalization in Mathematical Reasoning via Multi-View Fine-Tuning [[Paper]](https://arxiv.org/abs/2307.07951)
+- Goat: Fine-tuned LLaMA Outperforms GPT-4 on Arithmetic Tasks [[Paper]](Goat: Fine-tuned LLaMA Outperforms GPT-4 on Arithmetic Tasks)
+  
+#### Conversation Instructions 
 - Vicuna: An Open-Source Chatbot Impressing GPT-4 with 90%* ChatGPT Quality [[Blog]](https://lmsys.org/blog/2023-03-30-vicuna/)
 - Enhancing Chat Language Models by Scaling High-quality Instructional Conversations [[Paper]](https://arxiv.org/abs/2305.14233)
 - CAMEL: Communicative Agents for "Mind" Exploration of Large Scale Language Model Society [[Paper]](https://arxiv.org/abs/2303.17760)
 - Selfee: Iterative self-revising llm empowered by self-feedback generation [[Blog]](https://kaistai.github.io/SelFee/)
+
 #### Multilingual Instructions
 - Phoenix: Democratizing ChatGPT across Languages [[Paper]](https://arxiv.org/abs/2304.10453)
 - BayLing: Bridging Cross-lingual Alignment and Instruction Following through Interactive Translation for Large Language Models [[Paper]](https://arxiv.org/abs/2306.10968)
 - Bactrian-X : A Multilingual Replicable Instruction-Following Model with Low-Rank Adaptation [[Paper]](https://arxiv.org/abs/2305.15011)
+
 
 ### Instructions Data Management
 #### Instruction Implications
@@ -88,6 +109,7 @@ We hope this repository can help researchers and practitioners to get a better u
 - Flacuna: Unleashing the problem solving power of vicuna using flan fine-tuning [[Paper]](https://arxiv.org/abs/2307.02053)
 - Scaling data-constrained language models [[Paper]](https://arxiv.org/abs/2305.16264)
 - Towards Better Instruction Following Language Models for Chinese: Investigating the Impact of Training Data and Evaluation [[Paper]](https://arxiv.org/abs/2304.07854)
+- The False Promise of Imitating Proprietary LLMs [[Paper]](https://arxiv.org/abs/2305.15717)
 #### Instruction Quantity
 - Becoming self-instruct: introducing early stopping criteria for minimal instruct tuning [[Paper]](https://arxiv.org/abs/2307.03692)
 - LIMA: Less Is More for Alignment [[Paper]](https://arxiv.org/abs/2305.11206)
@@ -123,11 +145,13 @@ We hope this repository can help researchers and practitioners to get a better u
 #### Closed-set Benchmarks
 ##### General Knowledge
 - Measuring Massive Multitask Language Understanding [[Paper]](https://openreview.net/forum?id=d7KBjmI3GmQ)
+- Holistic Evaluation of Language Models [[Paper]](https://arxiv.org/abs/2211.09110)
 - CMMLU: Measuring massive multitask language understanding in Chinese [[Paper]](https://arxiv.org/abs/2306.09212)
 - C-Eval: A Multi-Level Multi-Discipline Chinese Evaluation Suite for Foundation Models [[Paper]](https://arxiv.org/abs/2305.08322)
 - KoLA: Carefully Benchmarking World Knowledge of Large Language Models [[Paper]](https://arxiv.org/abs/2306.09296)
 - M3KE: A Massive Multi-Level Multi-Subject Knowledge Evaluation Benchmark for Chinese Large Language Models [[Paper]](https://arxiv.org/abs/2305.10263)
 - AGIEval: A Human-Centric Benchmark for Evaluating Foundation Models [[Paper]](https://arxiv.org/abs/2304.06364)
+- Measuring Massive Multitask Chinese Understanding [[Paper]](https://arxiv.org/abs/2304.12986)
 ##### Reasoning
 - Training Verifiers to Solve Math Word Problems [[Paper]](https://arxiv.org/abs/2110.14168)
 - Measuring Massive Multitask Language Understanding [[Paper]](https://openreview.net/forum?id=d7KBjmI3GmQ)
@@ -140,6 +164,9 @@ We hope this repository can help researchers and practitioners to get a better u
 - DS-1000: A Natural and Reliable Benchmark for Data Science Code Generation [[Paper]](https://arxiv.org/abs/2211.11501)
 - Evaluating Large Language Models Trained on Code [[Paper]](https://arxiv.org/abs/2107.03374)
 - Is Your Code Generated by ChatGPT Really Correct? Rigorous Evaluation of Large Language Models for Code Generation [[Paper]](https://arxiv.org/abs/2305.01210)
+##### Safety
+- Safety Assessment of Chinese Large Language Models [[Paper]](https://arxiv.org/abs/2304.10436)
+- CValues: Measuring the Values of Chinese Large Language Models from Safety to Responsibility [[Paper]](https://arxiv.org/abs/2307.09705)
   
 #### Open-set Benchmarks
 - Vicuna: An Open-Source Chatbot Impressing GPT-4 with 90%* ChatGPT Quality [[Blog]](https://lmsys.org/blog/2023-03-30-vicuna/)
