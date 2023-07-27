@@ -40,6 +40,7 @@ We hope this repository can help researchers and practitioners to get a better u
 - Challenges and Applications of Large Language Models [[Paper]](https://arxiv.org/abs/2307.10169)
 - Harnessing the Power of LLMs in Practice: A Survey on ChatGPT and Beyond [[Paper]](https://arxiv.org/abs/2304.13712)
 - Domain Specialization as the Key to Make Large Language Models Disruptive: A Comprehensive Survey [[Paper]](https://arxiv.org/abs/2305.18703)
+- A Survey of Safety and Trustworthiness of Large Language Models through the Lens of Verification and Validation [[Paper]](https://arxiv.org/abs/2305.11391)
 
 ## Alignment Data
 ### Instructions From Human
@@ -50,6 +51,7 @@ We hope this repository can help researchers and practitioners to get a better u
 - Unnatural Instructions: Tuning Language Models with (Almost) No Human Labor [[paper]](https://aclanthology.org/2023.acl-long.806/)
 - The OIG Dataset [[Blog]](https://laion.ai/blog/oig-dataset/)
 - ChatPLUG: Open-Domain Generative Dialogue System with Internet-Augmented Instruction Tuning for Digital Human [[Paper]](https://arxiv.org/abs/2304.07849)
+- Text Alignment Is An Efficient Unified Model for Massive NLP Tasks [[Paper]](https://arxiv.org/abs/2307.02729)
   
 #### Hand-crafted Instructions 
 - Free Dolly: Introducing the World's First Truly Open Instruction-Tuned LLM [[Blog]](https://www.databricks.com/blog/2023/04/12/dolly-first-open-commercially-viable-instruction-tuned-llm)
@@ -57,6 +59,8 @@ We hope this repository can help researchers and practitioners to get a better u
 - Chinese open instruction generalist: A preliminary release [[Paper]](https://arxiv.org/abs/2304.07987)
 - ShareGPT [[Blog]](https://lmsys.org/blog/2023-03-30-vicuna/)
 - Let's Verify Step by Step [[Paper]](https://arxiv.org/abs/2305.20050)
+- BeaverTails: Towards Improved Safety Alignment of LLM via a Human-Preference Dataset [[Paper]](https://arxiv.org/abs/2307.04657)
+- The Importance of Human-Labeled Data in the Era of LLMs [[Paper]](https://arxiv.org/abs/2306.14910)
 
 ### Instructions From Strong LLMs
 #### General Instructions
@@ -91,7 +95,7 @@ We hope this repository can help researchers and practitioners to get a better u
 - MinT: Boosting Generalization in Mathematical Reasoning via Multi-View Fine-Tuning [[Paper]](https://arxiv.org/abs/2307.07951)
 - Goat: Fine-tuned LLaMA Outperforms GPT-4 on Arithmetic Tasks [[Paper]](https://arxiv.org/abs/2305.14201)
   
-#### Conversation Instructions 
+#### Conversational Instructions 
 - Vicuna: An Open-Source Chatbot Impressing GPT-4 with 90%* ChatGPT Quality [[Blog]](https://lmsys.org/blog/2023-03-30-vicuna/)
 - Enhancing Chat Language Models by Scaling High-quality Instructional Conversations [[Paper]](https://arxiv.org/abs/2305.14233)
 - CAMEL: Communicative Agents for "Mind" Exploration of Large Scale Language Model Society [[Paper]](https://arxiv.org/abs/2303.17760)
@@ -101,6 +105,7 @@ We hope this repository can help researchers and practitioners to get a better u
 - Phoenix: Democratizing ChatGPT across Languages [[Paper]](https://arxiv.org/abs/2304.10453)
 - BayLing: Bridging Cross-lingual Alignment and Instruction Following through Interactive Translation for Large Language Models [[Paper]](https://arxiv.org/abs/2306.10968)
 - Bactrian-X : A Multilingual Replicable Instruction-Following Model with Low-Rank Adaptation [[Paper]](https://arxiv.org/abs/2305.15011)
+- Instruct-Align: Teaching Novel Languages with to LLMs through Alignment-based Cross-Lingual Instruction [[Paper]](https://arxiv.org/abs/2305.13627)
 
 
 ### Instructions Data Management
@@ -110,6 +115,7 @@ We hope this repository can help researchers and practitioners to get a better u
 - Scaling data-constrained language models [[Paper]](https://arxiv.org/abs/2305.16264)
 - Towards Better Instruction Following Language Models for Chinese: Investigating the Impact of Training Data and Evaluation [[Paper]](https://arxiv.org/abs/2304.07854)
 - The False Promise of Imitating Proprietary LLMs [[Paper]](https://arxiv.org/abs/2305.15717)
+- Fundamental Limitations of Alignment in Large Language Models [[Paper]](https://arxiv.org/abs/2304.11082)
 #### Instruction Quantity
 - Becoming self-instruct: introducing early stopping criteria for minimal instruct tuning [[Paper]](https://arxiv.org/abs/2307.03692)
 - LIMA: Less Is More for Alignment [[Paper]](https://arxiv.org/abs/2305.11206)
@@ -167,6 +173,9 @@ We hope this repository can help researchers and practitioners to get a better u
 ##### Safety
 - Safety Assessment of Chinese Large Language Models [[Paper]](https://arxiv.org/abs/2304.10436)
 - CValues: Measuring the Values of Chinese Large Language Models from Safety to Responsibility [[Paper]](https://arxiv.org/abs/2307.09705)
+- Jailbroken: How Does LLM Safety Training Fail? [[Paper]](https://arxiv.org/abs/2307.02483)
+- Latent Jailbreak: A Benchmark for Evaluating Text Safety and Output Robustness of Large Language Models [[Paper]](https://arxiv.org/abs/2307.08487)
+- TrustGPT: A Benchmark for Trustworthy and Responsible Large Language Models [[Paper]](https://arxiv.org/abs/2306.11507)
   
 #### Open-set Benchmarks
 - Vicuna: An Open-Source Chatbot Impressing GPT-4 with 90%* ChatGPT Quality [[Blog]](https://lmsys.org/blog/2023-03-30-vicuna/)
