@@ -146,19 +146,21 @@ We hope this repository can help researchers and practitioners to get a better u
 - Parameter-Efficient Fine-Tuning Design Spaces [[Paper]](https://openreview.net/forum?id=XSRSWxyJIC)
 
 ## Alignment Evaluation
+### Evaluation Design Principles
+- Sparks of Artificial General Intelligence: Early experiments with GPT-4 [[Paper]](https://arxiv.org/abs/2303.12712)
+- Efficiently Measuring the Cognitive Ability of LLMs: An Adaptive Testing Perspective [[Paper]](https://arxiv.org/abs/2306.10512)
+- Holistic Evaluation of Language Models [[Paper]](https://arxiv.org/abs/2211.09110)
+
 ### Evaluation Benchmarks
 #### Closed-set Benchmarks
 ##### General Knowledge
 - Measuring Massive Multitask Language Understanding [[Paper]](https://openreview.net/forum?id=d7KBjmI3GmQ)
-- Holistic Evaluation of Language Models [[Paper]](https://arxiv.org/abs/2211.09110)
 - CMMLU: Measuring massive multitask language understanding in Chinese [[Paper]](https://arxiv.org/abs/2306.09212)
 - C-Eval: A Multi-Level Multi-Discipline Chinese Evaluation Suite for Foundation Models [[Paper]](https://arxiv.org/abs/2305.08322)
 - KoLA: Carefully Benchmarking World Knowledge of Large Language Models [[Paper]](https://arxiv.org/abs/2306.09296)
 - M3KE: A Massive Multi-Level Multi-Subject Knowledge Evaluation Benchmark for Chinese Large Language Models [[Paper]](https://arxiv.org/abs/2305.10263)
 - AGIEval: A Human-Centric Benchmark for Evaluating Foundation Models [[Paper]](https://arxiv.org/abs/2304.06364)
 - Measuring Massive Multitask Chinese Understanding [[Paper]](https://arxiv.org/abs/2304.12986)
-- Efficiently Measuring the Cognitive Ability of LLMs: An Adaptive Testing Perspective [[Paper]](https://arxiv.org/abs/2306.10512)
-
 ##### Reasoning
 - Training Verifiers to Solve Math Word Problems [[Paper]](https://arxiv.org/abs/2110.14168)
 - Measuring Massive Multitask Language Understanding [[Paper]](https://openreview.net/forum?id=d7KBjmI3GmQ)
