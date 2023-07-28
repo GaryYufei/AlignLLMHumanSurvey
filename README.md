@@ -157,6 +157,8 @@ We hope this repository can help researchers and practitioners to get a better u
 - M3KE: A Massive Multi-Level Multi-Subject Knowledge Evaluation Benchmark for Chinese Large Language Models [[Paper]](https://arxiv.org/abs/2305.10263)
 - AGIEval: A Human-Centric Benchmark for Evaluating Foundation Models [[Paper]](https://arxiv.org/abs/2304.06364)
 - Measuring Massive Multitask Chinese Understanding [[Paper]](https://arxiv.org/abs/2304.12986)
+- Efficiently Measuring the Cognitive Ability of LLMs: An Adaptive Testing Perspective [[Paper]](https://arxiv.org/abs/2306.10512)
+
 ##### Reasoning
 - Training Verifiers to Solve Math Word Problems [[Paper]](https://arxiv.org/abs/2110.14168)
 - Measuring Massive Multitask Language Understanding [[Paper]](https://openreview.net/forum?id=d7KBjmI3GmQ)
