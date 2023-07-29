@@ -42,6 +42,7 @@ We hope this repository can help researchers and practitioners to get a better u
 - Domain Specialization as the Key to Make Large Language Models Disruptive: A Comprehensive Survey [[Paper]](https://arxiv.org/abs/2305.18703)
 - A Survey of Safety and Trustworthiness of Large Language Models through the Lens of Verification and Validation [[Paper]](https://arxiv.org/abs/2305.11391)
 - Unifying Large Language Models and Knowledge Graphs: A Roadmap [[Paper]](https://arxiv.org/abs/2306.08302)
+- Tool Learning with Foundation Models [[Paper]](https://arxiv.org/abs/2304.08354)
 
 ## Alignment Data
 ### Instructions From Human
@@ -53,6 +54,13 @@ We hope this repository can help researchers and practitioners to get a better u
 - The OIG Dataset [[Blog]](https://laion.ai/blog/oig-dataset/)
 - ChatPLUG: Open-Domain Generative Dialogue System with Internet-Augmented Instruction Tuning for Digital Human [[Paper]](https://arxiv.org/abs/2304.07849)
 - Text Alignment Is An Efficient Unified Model for Massive NLP Tasks [[Paper]](https://arxiv.org/abs/2307.02729)
+
+#### Domain Knowledge
+- Learning A Foundation Language Model for Geoscience Knowledge Understanding and Utilization [[Paper]](https://arxiv.org/abs/2306.05064)
+- Lawyer LLaMA Technical Report [[Paper]](https://arxiv.org/abs/2305.15062)
+- HuaTuo: Tuning LLaMA Model with Chinese Medical Knowledge [Paper](https://arxiv.org/abs/2304.06975)
+- PMC-LLaMA: Further Finetuning LLaMA on Medical Papers [[Paper]](https://arxiv.org/abs/2304.14454)
+- Parameter-Efficient Fine-Tuning of LLaMA for the Clinical Domain [[Paper]](https://arxiv.org/abs/2307.03042)
   
 #### Hand-crafted Instructions 
 - Free Dolly: Introducing the World's First Truly Open Instruction-Tuned LLM [[Blog]](https://www.databricks.com/blog/2023/04/12/dolly-first-open-commercially-viable-instruction-tuned-llm)
@@ -165,6 +173,7 @@ We hope this repository can help researchers and practitioners to get a better u
 - M3KE: A Massive Multi-Level Multi-Subject Knowledge Evaluation Benchmark for Chinese Large Language Models [[Paper]](https://arxiv.org/abs/2305.10263)
 - AGIEval: A Human-Centric Benchmark for Evaluating Foundation Models [[Paper]](https://arxiv.org/abs/2304.06364)
 - Measuring Massive Multitask Chinese Understanding [[Paper]](https://arxiv.org/abs/2304.12986)
+- Xiezhi: An Ever-Updating Benchmark for Holistic Domain Knowledge Evaluation [[Paper]](https://arxiv.org/abs/2306.05783)
 ##### Reasoning
 - Training Verifiers to Solve Math Word Problems [[Paper]](https://arxiv.org/abs/2110.14168)
 - Measuring Massive Multitask Language Understanding [[Paper]](https://openreview.net/forum?id=d7KBjmI3GmQ)
