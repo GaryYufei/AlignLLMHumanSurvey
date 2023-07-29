@@ -41,6 +41,7 @@ We hope this repository can help researchers and practitioners to get a better u
 - Harnessing the Power of LLMs in Practice: A Survey on ChatGPT and Beyond [[Paper]](https://arxiv.org/abs/2304.13712)
 - Domain Specialization as the Key to Make Large Language Models Disruptive: A Comprehensive Survey [[Paper]](https://arxiv.org/abs/2305.18703)
 - A Survey of Safety and Trustworthiness of Large Language Models through the Lens of Verification and Validation [[Paper]](https://arxiv.org/abs/2305.11391)
+- Unifying Large Language Models and Knowledge Graphs: A Roadmap [[Paper]](https://arxiv.org/abs/2306.08302)
 
 ## Alignment Data
 ### Instructions From Human
@@ -90,6 +91,8 @@ We hope this repository can help researchers and practitioners to get a better u
 - Textbooks Are All You Need [[Paper]](https://arxiv.org/abs/2306.11644)
 - WizardCoder: Empowering Code Large Language Models with Evol-Instruct [[Paper]](https://arxiv.org/abs/2306.08568)
 - Code Alpaca: An Instruction-following LLaMA model for code generation [[Github]](https://github.com/sahil280114/codealpaca)
+- CodeT5+: Open Code Large Language Models for Code Understanding and Generation [[Paper]](https://arxiv.org/abs/2305.07922)
+- PanGu-Coder2: Boosting Large Language Models for Code with Ranking Feedback [[Paper]](https://arxiv.org/abs/2307.14936)
 ##### Maths
 - MinT: Boosting Generalization in Mathematical Reasoning via Multi-View Fine-Tuning [[Paper]](https://arxiv.org/abs/2307.07951)
 - Goat: Fine-tuned LLaMA Outperforms GPT-4 on Arithmetic Tasks [[Paper]](https://arxiv.org/abs/2305.14201)
@@ -130,6 +133,7 @@ We hope this repository can help researchers and practitioners to get a better u
 - Direct Preference Optimization: Your Language Model is Secretly a Reward Model [[Paper]](https://arxiv.org/abs/2305.18290)
 - Preference Ranking Optimization for Human Alignment [[Paper]](https://arxiv.org/abs/2306.17492)
 - RRHF: Rank Responses to Align Language Models with Human Feedback without tears [[Paper]](https://arxiv.org/abs/2304.05302)
+- PanGu-Coder2: Boosting Large Language Models for Code with Ranking Feedback [[Paper]](https://arxiv.org/abs/2307.14936)
 - Calibrating Sequence likelihood Improves Conditional Language Generation [[Paper]](https://openreview.net/forum?id=0qSOodKmJaN)
 #### Language-based Training
 - OpenChat: Less is More for Open-source Models [[Github]](https://github.com/imoneoi/openchat)
