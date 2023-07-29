@@ -22,14 +22,15 @@ We hope this repository can help researchers and practitioners to get a better u
 - [Awesome-Aligning-LLM-Human](#awesome-align-llm-human)
     - [Related Surveys](#related-surveys)
     - [Alignment Data](#alignment-data)
-        - [Instructions From Human](#instructions-from-human)
-        - [Instructions From Strong LLMs](#instructions-from-strong-llms)
-        - [Instructions Data Management](#instructions-data-management)
+        - [Data From Human](#data-from-human)
+        - [Data From Strong LLMs](#data-from-strong-llms)
+        - [Instructions Management](#instructions-management)
     - [Alignment Training](#alignment-training)
         - [Online Human Alignment](#online-human-alignment)
         - [Offline Human Alignment](#offline-human-alignment)
         - [Parameter-Efficient Training](#parameter-efficient-training)
     - [Alignment Evaluation](#alignment-evaluation)
+        - [Evaluation Design Principles](#evaluation-design-principles) 
         - [Evaluation Benchmarks](#evaluation-benchmarks)
         - [Evaluation Paradigms](#evaluation-paradigms)
 
@@ -45,7 +46,7 @@ We hope this repository can help researchers and practitioners to get a better u
 - Tool Learning with Foundation Models [[Paper]](https://arxiv.org/abs/2304.08354)
 
 ## Alignment Data
-### Instructions From Human
+### Data From Human
 #### NLP Benchmarks
 - PromptSource: An Integrated Development Environment and Repository for Natural Language Prompts [[paper]](https://aclanthology.org/2022.acl-demo.9/)
 - Super-NaturalInstructions: Generalization via Declarative Instructions on 1600+ NLP Tasks [[paper]](https://aclanthology.org/2022.emnlp-main.340/)
@@ -71,7 +72,14 @@ We hope this repository can help researchers and practitioners to get a better u
 - BeaverTails: Towards Improved Safety Alignment of LLM via a Human-Preference Dataset [[Paper]](https://arxiv.org/abs/2307.04657)
 - The Importance of Human-Labeled Data in the Era of LLMs [[Paper]](https://arxiv.org/abs/2306.14910)
 
-### Instructions From Strong LLMs
+#### Human Preference Data
+- Training language models to follow instructions with human feedback [[Paper]](https://openreview.net/forum?id=TG8KACxEON)
+- Improving alignment of dialogue agents via targeted human judgements [[Paper]](https://arxiv.org/abs/2209.14375)
+- Fine-Tuning Language Models from Human Preference [[Paper]](https://arxiv.org/abs/1909.08593)
+- Teaching language models to support answers with verified quotes [[Paper]](https://arxiv.org/abs/2203.11147)
+- WebGPT: Browser-assisted question-answering with human feedback [[Paper]](https://arxiv.org/abs/2112.09332)
+
+### Data From Strong LLMs
 #### General Instructions
 ##### Improving Input Quality
 - Self-Instruct: Aligning Language Models with Self-Generated Instructions [[Paper]](https://aclanthology.org/2023.acl-long.754/)
@@ -118,7 +126,7 @@ We hope this repository can help researchers and practitioners to get a better u
 - Instruct-Align: Teaching Novel Languages with to LLMs through Alignment-based Cross-Lingual Instruction [[Paper]](https://arxiv.org/abs/2305.13627)
 
 
-### Instructions Data Management
+### Instructions Management
 #### Instruction Implications
 - How far can camels go? exploring the state of instruction tuning on open resources [[Paper]](https://arxiv.org/abs/2306.04751)
 - Flacuna: Unleashing the problem solving power of vicuna using flan fine-tuning [[Paper]](https://arxiv.org/abs/2307.02053)
