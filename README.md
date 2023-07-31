@@ -54,12 +54,10 @@ We hope this repository can help researchers and practitioners to get a better u
 - PromptSource: An Integrated Development Environment and Repository for Natural Language Prompts [[paper]](https://aclanthology.org/2022.acl-demo.9/)
 - Super-NaturalInstructions: Generalization via Declarative Instructions on 1600+ NLP Tasks [[paper]](https://aclanthology.org/2022.emnlp-main.340/)
 - The FLAN collection: Designing data and methods for effective instruction tuning [[paper]](https://arxiv.org/abs/2301.13688)
-- Unnatural Instructions: Tuning Language Models with (Almost) No Human Labor [[paper]](https://aclanthology.org/2023.acl-long.806/)
 - The OIG Dataset [[Blog]](https://laion.ai/blog/oig-dataset/)
 - ChatPLUG: Open-Domain Generative Dialogue System with Internet-Augmented Instruction Tuning for Digital Human [[Paper]](https://arxiv.org/abs/2304.07849)
 - Text Alignment Is An Efficient Unified Model for Massive NLP Tasks [[Paper]](https://arxiv.org/abs/2307.02729)
 - TABLET: Learning From Instructions For Tabular Data [[Paper]](https://arxiv.org/abs/2304.13188)
-- Maybe Only 0.5% Data is Needed: A Preliminary Exploration of Low Training Data Instruction Tuning [[Paper]](https://arxiv.org/abs/2305.09246)
 - OPT-IML: Scaling Language Model Instruction Meta Learning through the Lens of Generalization [[Paper]](https://arxiv.org/abs/2212.12017)
 
 #### Domain Knowledge
@@ -146,6 +144,7 @@ We hope this repository can help researchers and practitioners to get a better u
 - LIMA: Less Is More for Alignment [[Paper]](https://arxiv.org/abs/2305.11206)
 - Instruction Mining: High-Quality Instruction Data Selection for Large Language Models [[Paper]](https://arxiv.org/abs/2307.06290)
 - AlpaGasus: Training A Better Alpaca with Fewer Data [[Paper]](https://arxiv.org/abs/2307.08701)
+- Maybe Only 0.5% Data is Needed: A Preliminary Exploration of Low Training Data Instruction Tuning [[Paper]](https://arxiv.org/abs/2305.09246)
 
 ## Alignment Training
 ### Online Human Alignment
@@ -174,6 +173,7 @@ We hope this repository can help researchers and practitioners to get a better u
 
 ### Model Architecture Design
 - Mixture-of-Experts Meets Instruction Tuning:A Winning Combination for Large Language Models [[Paper]](https://arxiv.org/abs/2305.14705)
+- LaMini-LM: A Diverse Herd of Distilled Models from Large-Scale Instructions [[Paper]](https://arxiv.org/abs/2304.14402)
 
 ## Alignment Evaluation
 ### Evaluation Design Principles
