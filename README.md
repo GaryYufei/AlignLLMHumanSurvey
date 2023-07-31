@@ -60,6 +60,7 @@ We hope this repository can help researchers and practitioners to get a better u
 - TABLET: Learning From Instructions For Tabular Data [[Paper]](https://arxiv.org/abs/2304.13188)
 - OPT-IML: Scaling Language Model Instruction Meta Learning through the Lens of Generalization [[Paper]](https://arxiv.org/abs/2212.12017)
 - Dynosaur: A Dynamic Growth Paradigm for Instruction-Tuning Data Curation [[Paper]](https://arxiv.org/abs/2305.14327)
+- Exploring Format Consistency for Instruction Tuning [[Paper]](https://arxiv.org/abs/2307.15504)
 
 #### Domain Knowledge
 - Learning A Foundation Language Model for Geoscience Knowledge Understanding and Utilization [[Paper]](https://arxiv.org/abs/2306.05064)
