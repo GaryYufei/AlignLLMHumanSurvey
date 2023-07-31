@@ -46,6 +46,7 @@ We hope this repository can help researchers and practitioners to get a better u
 - A Survey of Safety and Trustworthiness of Large Language Models through the Lens of Verification and Validation [[Paper]](https://arxiv.org/abs/2305.11391)
 - Unifying Large Language Models and Knowledge Graphs: A Roadmap [[Paper]](https://arxiv.org/abs/2306.08302)
 - Tool Learning with Foundation Models [[Paper]](https://arxiv.org/abs/2304.08354)
+- A Stage Review of Instruction Tuning [Blog](https://yaofu.notion.site/June-2023-A-Stage-Review-of-Instruction-Tuning-f59dbfc36e2d4e12a33443bd6b2012c2)
 
 ## Alignment Data
 ### Data From Human
@@ -57,6 +58,9 @@ We hope this repository can help researchers and practitioners to get a better u
 - The OIG Dataset [[Blog]](https://laion.ai/blog/oig-dataset/)
 - ChatPLUG: Open-Domain Generative Dialogue System with Internet-Augmented Instruction Tuning for Digital Human [[Paper]](https://arxiv.org/abs/2304.07849)
 - Text Alignment Is An Efficient Unified Model for Massive NLP Tasks [[Paper]](https://arxiv.org/abs/2307.02729)
+- TABLET: Learning From Instructions For Tabular Data [[Paper]](https://arxiv.org/abs/2304.13188)
+- Maybe Only 0.5% Data is Needed: A Preliminary Exploration of Low Training Data Instruction Tuning [[Paper]](https://arxiv.org/abs/2305.09246)
+- OPT-IML: Scaling Language Model Instruction Meta Learning through the Lens of Generalization [[Paper]](https://arxiv.org/abs/2212.12017)
 
 #### Domain Knowledge
 - Learning A Foundation Language Model for Geoscience Knowledge Understanding and Utilization [[Paper]](https://arxiv.org/abs/2306.05064)
@@ -98,6 +102,7 @@ We hope this repository can help researchers and practitioners to get a better u
 - Principle-Driven Self-Alignment of Language Models from Scratch with Minimal Human Supervision [[Paper]](https://arxiv.org/abs/2305.03047)
 - ExpertPrompting: Instructing Large Language Models to be Distinguished Experts [[Paper]](https://arxiv.org/abs/2305.14688)
 - Phoenix: Democratizing ChatGPT across Languages [[Paper]](https://arxiv.org/abs/2304.10453)
+- Improving Cross-Task Generalization with Step-by-Step Instructions [[Paper]](https://arxiv.org/abs/2305.04429)
 
 #### Reasoning Instructions
 ##### General Reasoning
@@ -166,6 +171,9 @@ We hope this repository can help researchers and practitioners to get a better u
 - The Power of Scale for Parameter-Efficient Prompt Tuning [[Paper]](https://aclanthology.org/2021.emnlp-main.243/)
 - Adaptive Budget Allocation for Parameter-Efficient Fine-Tuning [[Paper]](https://openreview.net/forum?id=lq62uWRJjiY)
 - Parameter-Efficient Fine-Tuning Design Spaces [[Paper]](https://openreview.net/forum?id=XSRSWxyJIC)
+
+### Model Architecture Design
+- Mixture-of-Experts Meets Instruction Tuning:A Winning Combination for Large Language Models [[Paper]](https://arxiv.org/abs/2305.14705)
 
 ## Alignment Evaluation
 ### Evaluation Design Principles
