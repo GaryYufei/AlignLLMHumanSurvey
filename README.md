@@ -59,6 +59,7 @@ We hope this repository can help researchers and practitioners to get a better u
 - Text Alignment Is An Efficient Unified Model for Massive NLP Tasks [[Paper]](https://arxiv.org/abs/2307.02729)
 - TABLET: Learning From Instructions For Tabular Data [[Paper]](https://arxiv.org/abs/2304.13188)
 - OPT-IML: Scaling Language Model Instruction Meta Learning through the Lens of Generalization [[Paper]](https://arxiv.org/abs/2212.12017)
+- Dynosaur: A Dynamic Growth Paradigm for Instruction-Tuning Data Curation [[Paper]](https://arxiv.org/abs/2305.14327)
 
 #### Domain Knowledge
 - Learning A Foundation Language Model for Geoscience Knowledge Understanding and Utilization [[Paper]](https://arxiv.org/abs/2306.05064)
@@ -101,6 +102,8 @@ We hope this repository can help researchers and practitioners to get a better u
 - ExpertPrompting: Instructing Large Language Models to be Distinguished Experts [[Paper]](https://arxiv.org/abs/2305.14688)
 - Phoenix: Democratizing ChatGPT across Languages [[Paper]](https://arxiv.org/abs/2304.10453)
 - Improving Cross-Task Generalization with Step-by-Step Instructions [[Paper]](https://arxiv.org/abs/2305.04429)
+- The CoT Collection: Improving Zero-shot and Few-shot Learning of Language Models via Chain-of-Thought Fine-Tuning [[Paper]](https://arxiv.org/abs/2305.14045)
+
 
 #### Reasoning Instructions
 ##### General Reasoning
@@ -170,6 +173,7 @@ We hope this repository can help researchers and practitioners to get a better u
 - The Power of Scale for Parameter-Efficient Prompt Tuning [[Paper]](https://aclanthology.org/2021.emnlp-main.243/)
 - Adaptive Budget Allocation for Parameter-Efficient Fine-Tuning [[Paper]](https://openreview.net/forum?id=lq62uWRJjiY)
 - Parameter-Efficient Fine-Tuning Design Spaces [[Paper]](https://openreview.net/forum?id=XSRSWxyJIC)
+- HINT: Hypernetwork Instruction Tuning for Efficient Zero- & Few-Shot Generalisation [[Paper]](https://aclanthology.org/2023.acl-long.631/)
 
 ### Model Architecture Design
 - Mixture-of-Experts Meets Instruction Tuning:A Winning Combination for Large Language Models [[Paper]](https://arxiv.org/abs/2305.14705)
