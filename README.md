@@ -57,8 +57,9 @@ We hope this repository can help researchers and practitioners to get a better u
 - The OIG Dataset [[Blog]](https://laion.ai/blog/oig-dataset/)
 - ChatPLUG: Open-Domain Generative Dialogue System with Internet-Augmented Instruction Tuning for Digital Human [[Paper]](https://arxiv.org/abs/2304.07849)
 - Text Alignment Is An Efficient Unified Model for Massive NLP Tasks [[Paper]](https://arxiv.org/abs/2307.02729)
-- TABLET: Learning From Instructions For Tabular Data [[Paper]](https://arxiv.org/abs/2304.13188)
 - OPT-IML: Scaling Language Model Instruction Meta Learning through the Lens of Generalization [[Paper]](https://arxiv.org/abs/2212.12017)
+##### LLMs-argumented Instructions From NLP benchmarks
+- TABLET: Learning From Instructions For Tabular Data [[Paper]](https://arxiv.org/abs/2304.13188)
 - Dynosaur: A Dynamic Growth Paradigm for Instruction-Tuning Data Curation [[Paper]](https://arxiv.org/abs/2305.14327)
 - Exploring Format Consistency for Instruction Tuning [[Paper]](https://arxiv.org/abs/2307.15504)
 
