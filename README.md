@@ -66,7 +66,7 @@ We hope this repository can help researchers and practitioners to get a better u
 #### Domain Knowledge
 - Learning A Foundation Language Model for Geoscience Knowledge Understanding and Utilization [[Paper]](https://arxiv.org/abs/2306.05064)
 - Lawyer LLaMA Technical Report [[Paper]](https://arxiv.org/abs/2305.15062)
-- HuaTuo: Tuning LLaMA Model with Chinese Medical Knowledge [Paper](https://arxiv.org/abs/2304.06975)
+- HuaTuo: Tuning LLaMA Model with Chinese Medical Knowledge [[Paper]](https://arxiv.org/abs/2304.06975)
 - PMC-LLaMA: Further Finetuning LLaMA on Medical Papers [[Paper]](https://arxiv.org/abs/2304.14454)
 - Parameter-Efficient Fine-Tuning of LLaMA for the Clinical Domain [[Paper]](https://arxiv.org/abs/2307.03042)
   
@@ -128,6 +128,7 @@ We hope this repository can help researchers and practitioners to get a better u
 - Enhancing Chat Language Models by Scaling High-quality Instructional Conversations [[Paper]](https://arxiv.org/abs/2305.14233)
 - CAMEL: Communicative Agents for "Mind" Exploration of Large Scale Language Model Society [[Paper]](https://arxiv.org/abs/2303.17760)
 - Selfee: Iterative self-revising llm empowered by self-feedback generation [[Blog]](https://kaistai.github.io/SelFee/)
+- Enhancing Chat Language Models by Scaling High-quality Instructional Conversations [[Paper]](https://arxiv.org/abs/2305.14233)
 
 #### Multilingual Instructions
 - Phoenix: Democratizing ChatGPT across Languages [[Paper]](https://arxiv.org/abs/2304.10453)
