@@ -33,6 +33,7 @@ We hope this repository can help researchers and practitioners to get a better u
         - [Evaluation Design Principles](#evaluation-design-principles) 
         - [Evaluation Benchmarks](#evaluation-benchmarks)
         - [Evaluation Paradigms](#evaluation-paradigms)
+    - [Alignment Toolkits](#alignment-toolkits)
 
 ## Related Surveys
 - A Survey of Large Language Models [[Paper]](https://arxiv.org/abs/2303.18223)
@@ -235,4 +236,10 @@ We hope this repository can help researchers and practitioners to get a better u
 ##### Evaluation-specific LLMs
 - PandaLM: An Automatic Evaluation Benchmark for LLM Instruction Tuning Optimization [[Paper]](https://arxiv.org/abs/2306.05087)
 
-
+## Alignment Toolkits
+- Llama V1 & V2 [[Github]](https://github.com/facebookresearch/llama) [[Paper V1]](https://arxiv.org/abs/2302.13971) [[Paper V2]](https://arxiv.org/abs/2307.09288)
+- Llama-X: Open Academic Research on Improving LLaMA to SOTA LLM [[Github]](https://github.com/AetherCortex/Llama-X)
+- Colossal-AI: Making large AI models cheaper, faster, and more accessible. [[Github]](https://github.com/hpcaitech/ColossalAI)
+- Training and serving large-scale neural networks with auto parallelization. [[Github]](https://github.com/alpa-projects/alpa)
+- FastChat [[Github]](https://github.com/lm-sys/FastChat)
+- LMFlow [[Github]](https://github.com/OptimalScale/LMFlow)
