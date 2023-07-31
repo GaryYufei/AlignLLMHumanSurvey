@@ -239,6 +239,7 @@ We hope this repository can help researchers and practitioners to get a better u
 ## Alignment Toolkits
 - Llama V1 & V2 [[Github]](https://github.com/facebookresearch/llama) [[Paper V1]](https://arxiv.org/abs/2302.13971) [[Paper V2]](https://arxiv.org/abs/2307.09288)
 - Llama-X: Open Academic Research on Improving LLaMA to SOTA LLM [[Github]](https://github.com/AetherCortex/Llama-X)
+- Llama2-Chinese [[Github]](https://github.com/FlagAlpha/Llama2-Chinese)
 - Colossal-AI: Making large AI models cheaper, faster, and more accessible. [[Github]](https://github.com/hpcaitech/ColossalAI)
 - Training and serving large-scale neural networks with auto parallelization. [[Github]](https://github.com/alpa-projects/alpa)
 - FastChat [[Github]](https://github.com/lm-sys/FastChat)
