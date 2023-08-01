@@ -58,10 +58,6 @@ We hope this repository can help researchers and practitioners to get a better u
 - ChatPLUG: Open-Domain Generative Dialogue System with Internet-Augmented Instruction Tuning for Digital Human [[Paper]](https://arxiv.org/abs/2304.07849)
 - Text Alignment Is An Efficient Unified Model for Massive NLP Tasks [[Paper]](https://arxiv.org/abs/2307.02729)
 - OPT-IML: Scaling Language Model Instruction Meta Learning through the Lens of Generalization [[Paper]](https://arxiv.org/abs/2212.12017)
-##### LLMs-argumented Instructions From NLP benchmarks
-- TABLET: Learning From Instructions For Tabular Data [[Paper]](https://arxiv.org/abs/2304.13188)
-- Dynosaur: A Dynamic Growth Paradigm for Instruction-Tuning Data Curation [[Paper]](https://arxiv.org/abs/2305.14327)
-- Exploring Format Consistency for Instruction Tuning [[Paper]](https://arxiv.org/abs/2307.15504)
 
 #### Domain Knowledge
 - Learning A Foundation Language Model for Geoscience Knowledge Understanding and Utilization [[Paper]](https://arxiv.org/abs/2306.05064)
@@ -95,6 +91,8 @@ We hope this repository can help researchers and practitioners to get a better u
 - Large Language Model as Attributed Training Data Generator: A Tale of Diversity and Bias [[Paper]](https://arxiv.org/abs/2306.15895)
 - WizardLM: Empowering Large Language Models to Follow Complex Instructions [[Paper]](https://arxiv.org/abs/2304.12244)
 - Unnatural Instructions: Tuning Language Models with (Almost) No Human Labor [[paper]](https://aclanthology.org/2023.acl-long.806/)
+- Dynosaur: A Dynamic Growth Paradigm for Instruction-Tuning Data Curation [[Paper]](https://arxiv.org/abs/2305.14327)
+- Exploring Format Consistency for Instruction Tuning [[Paper]](https://arxiv.org/abs/2307.15504)
 
 ##### Improving Output Quality
 - Chain-of-Thought Prompting Elicits Reasoning in Large Language Models [[Paper]](https://openreview.net/forum?id=_VjQlMeSB_J)
@@ -199,6 +197,8 @@ We hope this repository can help researchers and practitioners to get a better u
 - AGIEval: A Human-Centric Benchmark for Evaluating Foundation Models [[Paper]](https://arxiv.org/abs/2304.06364)
 - Measuring Massive Multitask Chinese Understanding [[Paper]](https://arxiv.org/abs/2304.12986)
 - Xiezhi: An Ever-Updating Benchmark for Holistic Domain Knowledge Evaluation [[Paper]](https://arxiv.org/abs/2306.05783)
+- TABLET: Learning From Instructions For Tabular Data [[Paper]](https://arxiv.org/abs/2304.13188)
+
 ##### Reasoning
 - Training Verifiers to Solve Math Word Problems [[Paper]](https://arxiv.org/abs/2110.14168)
 - Measuring Massive Multitask Language Understanding [[Paper]](https://openreview.net/forum?id=d7KBjmI3GmQ)
