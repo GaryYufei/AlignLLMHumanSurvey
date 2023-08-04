@@ -120,6 +120,7 @@ We hope this repository can help researchers and practitioners to get a better u
 ##### Maths
 - MinT: Boosting Generalization in Mathematical Reasoning via Multi-View Fine-Tuning [[Paper]](https://arxiv.org/abs/2307.07951)
 - Goat: Fine-tuned LLaMA Outperforms GPT-4 on Arithmetic Tasks [[Paper]](https://arxiv.org/abs/2305.14201)
+- Scaling Relationship on Learning Mathematical Reasoning with Large Language Models [[Paper]](https://arxiv.org/abs/2308.01825)
   
 #### Conversational Instructions 
 - Vicuna: An Open-Source Chatbot Impressing GPT-4 with 90%* ChatGPT Quality [[Blog]](https://lmsys.org/blog/2023-03-30-vicuna/)
