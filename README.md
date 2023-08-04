@@ -253,6 +253,8 @@ We hope this repository can help researchers and practitioners to get a better u
 - Large Language Models Are State-of-the-Art Evaluators of Code Generation [[Paper]](https://arxiv.org/abs/2304.14317)
 - Benchmarking Foundation Models with Language-Model-as-an-Examiner [[Paper]](https://arxiv.org/abs/2306.04181)
 - LLM-Eval: Unified Multi-Dimensional Automatic Evaluation for Open-Domain Conversations with Large Language Models [[Paper]](https://aclanthology.org/2023.nlp4convai-1.5/)
+- LLMs as Factual Reasoners: Insights from Existing Benchmarks and Beyond [[Paper]](https://arxiv.org/abs/2305.14540)
+
 ##### LLMs bias in Evaluation
 - Large Language Models are not Fair Evaluators [[Paper]](https://arxiv.org/abs/2305.17926)
 - Style Over Substance: Evaluation Biases for Large Language Models [[Paper]](https://arxiv.org/abs/2307.03025)
