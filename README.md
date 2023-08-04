@@ -58,6 +58,7 @@ We hope this repository can help researchers and practitioners to get a better u
 - ChatPLUG: Open-Domain Generative Dialogue System with Internet-Augmented Instruction Tuning for Digital Human [[Paper]](https://arxiv.org/abs/2304.07849)
 - Text Alignment Is An Efficient Unified Model for Massive NLP Tasks [[Paper]](https://arxiv.org/abs/2307.02729)
 - OPT-IML: Scaling Language Model Instruction Meta Learning through the Lens of Generalization [[Paper]](https://arxiv.org/abs/2212.12017)
+- Instruct-FinGPT: Financial Sentiment Analysis by Instruction Tuning of General-Purpose Large Language Models [[Paper]](https://arxiv.org/abs/2306.12659)
 
 #### Domain Knowledge
 - Learning A Foundation Language Model for Geoscience Knowledge Understanding and Utilization [[Paper]](https://arxiv.org/abs/2306.05064)
@@ -168,6 +169,7 @@ We hope this repository can help researchers and practitioners to get a better u
 - Second Thoughts are Best: Learning to Re-Align With Human Values from Text Edits [[Paper]](https://openreview.net/forum?id=u6OfmaGIya1)
 - Training Socially Aligned Language Models in Simulated Human Society [[Paper]](https://arxiv.org/abs/2305.16960)
 - Selfee: Iterative self-revising llm empowered by self-feedback generation [[Blog]](https://kaistai.github.io/SelFee/)
+- Fine-Grained Human Feedback Gives Better Rewards for Language Model Training [[Paper]](https://arxiv.org/abs/2306.01693)
 ### Parameter-Efficient Training
 - LoRA: Low-Rank Adaptation of Large Language Models [[Paper]](https://openreview.net/forum?id=nZeVKeeFYf9)
 - QLoRA: Efficient Finetuning of Quantized LLMs [[Paper]](https://arxiv.org/abs/2305.14314)
@@ -263,3 +265,4 @@ We hope this repository can help researchers and practitioners to get a better u
 - Training and serving large-scale neural networks with auto parallelization. [[Github]](https://github.com/alpa-projects/alpa)
 - FastChat [[Github]](https://github.com/lm-sys/FastChat)
 - LMFlow [[Github]](https://github.com/OptimalScale/LMFlow)
+- LLaMA2-Accessory: An Open-source Toolkit for LLM Development [[Github]](https://github.com/Alpha-VLLM/LLaMA2-Accessory)
