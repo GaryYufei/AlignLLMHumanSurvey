@@ -46,6 +46,8 @@ We hope this repository can help researchers and practitioners to get a better u
 - A Survey of Safety and Trustworthiness of Large Language Models through the Lens of Verification and Validation [[Paper]](https://arxiv.org/abs/2305.11391)
 - Unifying Large Language Models and Knowledge Graphs: A Roadmap [[Paper]](https://arxiv.org/abs/2306.08302)
 - Tool Learning with Foundation Models [[Paper]](https://arxiv.org/abs/2304.08354)
+- Eight Things to Know about Large Language Models [[Paper]](https://arxiv.org/abs/2304.00612)
+- Open Problems and Fundamental Limitations of Reinforcement Learning from Human Feedback [[Paper]](https://arxiv.org/abs/2307.15217)
 - A Stage Review of Instruction Tuning [[Blog]](https://yaofu.notion.site/June-2023-A-Stage-Review-of-Instruction-Tuning-f59dbfc36e2d4e12a33443bd6b2012c2)
 
 ## Alignment Data
