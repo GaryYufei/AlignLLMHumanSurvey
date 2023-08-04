@@ -157,6 +157,9 @@ We hope this repository can help researchers and practitioners to get a better u
 ### Online Human Alignment
 - Training language models to follow instructions with human feedback [[Paper]](https://openreview.net/forum?id=TG8KACxEON)
 - RAFT: Reward rAnked FineTuning for Generative Foundation Model Alignment [[Paper]](https://arxiv.org/abs/2304.06767)
+- Constitutional AI: Harmlessness from AI Feedback [[Paper]](Constitutional AI: Harmlessness from AI Feedback)
+- RLCD: Reinforcement Learning from Contrast Distillation for Language Model Alignment [[Paper]](https://arxiv.org/abs/2307.12950)
+
 ### Offline Human Alignment
 #### Rank-based Training
 - Direct Preference Optimization: Your Language Model is Secretly a Reward Model [[Paper]](https://arxiv.org/abs/2305.18290)
