@@ -268,6 +268,7 @@ We hope this repository can help researchers and practitioners to get a better u
 ##### Evaluation-specific LLMs
 - PandaLM: An Automatic Evaluation Benchmark for LLM Instruction Tuning Optimization [[Paper]](https://arxiv.org/abs/2306.05087)
 - Wider and Deeper LLM Networks are Fairer LLM Evaluators [[Paper]](https://arxiv.org/abs/2308.01862)
+- Shepherd: A Critic for Language Model Generation [[Paper]](https://arxiv.org/abs/2308.04592)
 
 ## Alignment Toolkits
 - Llama V1 & V2 [[Github]](https://github.com/facebookresearch/llama) [[Paper V1]](https://arxiv.org/abs/2302.13971) [[Paper V2]](https://arxiv.org/abs/2307.09288)
