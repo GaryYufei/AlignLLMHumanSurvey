@@ -127,6 +127,7 @@ We hope this repository can help researchers and practitioners to get a better u
   
 #### Conversational Instructions 
 - Vicuna: An Open-Source Chatbot Impressing GPT-4 with 90%* ChatGPT Quality [[Blog]](https://lmsys.org/blog/2023-03-30-vicuna/)
+- Baize: An Open-Source Chat Model with Parameter-Efficient Tuning on Self-Chat Data [[Paper]](https://arxiv.org/abs/2304.01196)
 - Enhancing Chat Language Models by Scaling High-quality Instructional Conversations [[Paper]](https://arxiv.org/abs/2305.14233)
 - CAMEL: Communicative Agents for "Mind" Exploration of Large Scale Language Model Society [[Paper]](https://arxiv.org/abs/2303.17760)
 - Selfee: Iterative self-revising llm empowered by self-feedback generation [[Blog]](https://kaistai.github.io/SelFee/)
