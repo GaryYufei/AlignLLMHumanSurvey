@@ -130,7 +130,6 @@ We hope this repository can help researchers and practitioners to get a better u
 - Enhancing Chat Language Models by Scaling High-quality Instructional Conversations [[Paper]](https://arxiv.org/abs/2305.14233)
 - CAMEL: Communicative Agents for "Mind" Exploration of Large Scale Language Model Society [[Paper]](https://arxiv.org/abs/2303.17760)
 - Selfee: Iterative self-revising llm empowered by self-feedback generation [[Blog]](https://kaistai.github.io/SelFee/)
-- Enhancing Chat Language Models by Scaling High-quality Instructional Conversations [[Paper]](https://arxiv.org/abs/2305.14233)
 - An Effective Data Creation Pipeline to Generate High-quality Financial Instruction Data for Large Language Model [[Paper]](https://arxiv.org/abs/2308.01415)
 
 #### Multilingual Instructions
