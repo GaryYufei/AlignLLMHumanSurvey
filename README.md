@@ -169,6 +169,8 @@ We hope this repository can help researchers and practitioners to get a better u
 - RRHF: Rank Responses to Align Language Models with Human Feedback without tears [[Paper]](https://arxiv.org/abs/2304.05302)
 - PanGu-Coder2: Boosting Large Language Models for Code with Ranking Feedback [[Paper]](https://arxiv.org/abs/2307.14936)
 - Calibrating Sequence likelihood Improves Conditional Language Generation [[Paper]](https://openreview.net/forum?id=0qSOodKmJaN)
+- Making Large Language Models Better Reasoners with Alignment [[Paper]](https://arxiv.org/pdf/2309.02144.pdf)
+
 #### Language-based Training
 - OpenChat: Less is More for Open-source Models [[Github]](https://github.com/imoneoi/openchat)
 - Languages are rewards: Hindsight finetuning using human feedback [[Paper]](https://arxiv.org/abs/2302.02676)
