@@ -1,6 +1,6 @@
 # Awesome-Align-LLM-Human
 
-A collection of papers and resources about aligning large language models (LLMs) with human.
+A collection of papers and resources about aligning large language models (LLMs) with human.  
 
 Large Language Models (LLMs) trained on extensive textual corpora have emerged as leading solutions for a broad array of Natural Language Processing (NLP) tasks. Despite their notable performance, these models are prone to certain limitations such as misunderstanding human instructions, generating potentially biased content, or factually incorrect (hallucinated) information. Hence, aligning LLMs with human expectations has become an active area of interest within the research community. This survey presents a comprehensive overview of these alignment technologies, including the following aspects. (1) Data collection (2) Training methodologies (3) Model Evaluation. In conclusion, we collate and distill our findings, shedding light on several promising future research avenues in the field. This survey, therefore, serves as a valuable resource for anyone invested in understanding and advancing the alignment of LLMs to better suit human-oriented tasks and expectations.
 
