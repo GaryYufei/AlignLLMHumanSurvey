@@ -157,6 +157,7 @@ We hope this repository can help researchers and practitioners to get a better u
 
 ## Alignment Training
 ### Online Human Alignment
+- TagPR: Tag-Guided Process Supervision for Personalization Reasoning in Large Language Models [[Paper]](https://arxiv.org/abs/2509.23140)
 - Training language models to follow instructions with human feedback [[Paper]](https://openreview.net/forum?id=TG8KACxEON)
 - RAFT: Reward rAnked FineTuning for Generative Foundation Model Alignment [[Paper]](https://arxiv.org/abs/2304.06767)
 - Constitutional AI: Harmlessness from AI Feedback [[Paper]](Constitutional AI: Harmlessness from AI Feedback)
